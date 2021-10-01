@@ -1,2 +1,2 @@
 # ChatApp
-We can implement a simple chat application between a server and a client .The application is a desktop based application and is implemented using Swing and Socket programming. 
+This is a simple Java chat application implemented using Java Swing and Java Socket Programming. It is capable to provide client-Server communication on a standalone device.
